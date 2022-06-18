@@ -18,3 +18,5 @@ const nuevoCarrito2 = carrito.forEach(function(producto){
 
 console.log(nuevoCarrito)
 console.log(nuevoCarrito2)
+
+//.filter() .reduce()
